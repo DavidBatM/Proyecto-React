@@ -1,0 +1,12 @@
+.container-items-light{
+    weight: 100%;
+    height: 50vh;
+    background-color: lightblue;
+    color: black
+}
+.container-items-dark{
+    weight: 100%;
+    height: 50vh;
+    background-color: black;
+    color: white;
+}
